@@ -1,6 +1,7 @@
+![logo]()
 <h1 align="center">Hi 👋, I'm hurmatayub</h1>
 <h3 align="center">I am passionate about HTML, CSS, JavaScript</h3>
-<img align="right" alt="coding" widht="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif"
+<img align="right" alt="coding" widht="400" height="300" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hurmatayub&label=Profile%20views&color=0e75b6&style=flat" alt="hurmatayub" /> </p>
 
