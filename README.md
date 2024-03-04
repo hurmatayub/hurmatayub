@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/hurmatayub/hurmatayub/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm hurmatayub</h1>
 <h3 align="center">I am passionate about HTML, CSS, JavaScript</h3>
 <img align="right" alt="coding" widht="400" height="300" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" 
